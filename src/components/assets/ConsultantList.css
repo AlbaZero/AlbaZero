@@ -1,0 +1,42 @@
+.DialogListTitle
+{
+  font-weight: bold;
+  padding-right: 5px;
+}
+.chipWrapper
+{
+  display: flex;
+  flex-wrap: wrap;
+}
+.dialogButton
+{
+  margin-left: 5px;
+}
+.dialogButtonContainer
+{
+  margin-top: 5px;
+}
+.containerWrapper
+{
+  padding: 5px;
+}
+.compConsultantListSearchContainer
+{
+  text-align: center;
+  font-weight: bold;
+}
+.ConsultantListList
+{
+  margin-top: 10px;
+}
+.ColumnMarket, .ColumnAvailability, .ColumnTechs, .ColumnRate, .ColumnRating
+{
+  display: none;
+}
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .ColumnName, .ColumnMarket, .ColumnAvailability, .ColumnTechs, .ColumnRate, .ColumnRating, .ColumnInfo
+    {
+      display: table-cell;
+    }
+}

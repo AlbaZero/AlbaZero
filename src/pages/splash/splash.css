@@ -1,0 +1,62 @@
+.section1
+{
+  color: #ffffff;
+  background-image: url('../../assets/images/splash-top-bg.jpg');
+  padding-bottom: 20px;
+  background-size: cover;
+}
+.section2
+{
+  margin-top: 10px;
+}
+.section2 p
+{
+  line-height: 1.5;
+}
+.section2 img
+{
+  max-width: 100%;
+  height: auto;
+}
+.footer
+{
+  margin-top: 10px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border-top: 1px solid #ccc;
+  color: #ccc;
+  text-align: center;
+}
+.loginDialogFields
+{
+  text-align: center;
+}
+.loginDialogButton
+{
+  text-align: right;
+  margin-top: 5px;
+}
+.section2info
+{
+  margin-top: 15px;
+}
+.buttonLogin
+{
+  text-align: center;
+}
+.buttonSpacer
+{
+  width: 20px;
+  display: inline-block;
+}
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .section1 h1
+    {
+      padding-top: 30px;
+    }
+    .section2info
+    {
+      margin-top: 5px;
+    }
+}

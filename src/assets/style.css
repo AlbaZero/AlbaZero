@@ -1,0 +1,113 @@
+body, html
+{
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+.headerPadding
+{
+  padding: 7px;
+}
+.appbarLogo
+{
+  vertical-align: middle;
+}
+.paperMargin
+{
+  margin-top: 20px;
+}
+.drawerLogo
+{
+  max-width: 90%;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.content-container
+{
+  margin-top: 10px;
+}
+.body-content
+{
+  padding-left: 200px;
+}
+.body-wrapper
+{
+  padding: 0 10px 0 10px;
+}
+.wrapper
+{
+
+}
+.container-wrapper
+{
+  padding: 5px;
+}
+.comp-ConsultantList-list
+{
+  padding: 3px;
+  margin-top: 15px;
+}
+.ConsultantList-Titles
+{
+  font-weight: bold;
+}
+.comp-ConsultantList-Users
+{
+  border-top: 1px solid #525252;
+  min-height: 10px;
+}
+.clickable
+{
+  cursor: pointer;
+}
+.comp-ConsultantList
+{
+  padding: 5px;
+}
+.comp-ConsultantList-searchContainer
+{
+  text-align: center;
+  font-weight: bold;
+}
+.comp-ConsultantList-searchContainer input
+{
+  font-weight: normal;
+  text-align: center;
+}
+.comp-ConsultantList-sliderWeekValue, .comp-ConsultantList-sliderPriceValue
+{
+  font-weight: bold;
+}
+.comp-ConsultantList-searchButton
+{
+  width: 100%;
+  margin-top: 3px;
+}
+.btn-full
+{
+  width: 100%;
+}
+.Purchase-createNeed
+{
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.NeedSetting-container
+{
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.NeedSetting-container h4
+{
+  margin: 0;
+}
+.NeedSetting-blacklist
+{
+
+}
